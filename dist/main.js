@@ -1,0 +1,1 @@
+new Promise(((e,o)=>{setTimeout((()=>{e("Hello John Doe!")}),1e3)})).then((e=>{console.log(e)}));
